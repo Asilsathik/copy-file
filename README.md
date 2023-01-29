@@ -31,7 +31,7 @@ print("Row",len(f.axes[0]))
 print("Col",len(f.axes[1]))
 ```
 ### OUTPUT:
-![output](COPYFILE.png)
+![output](copyfile.png)
 
 
 ## RESULT:
